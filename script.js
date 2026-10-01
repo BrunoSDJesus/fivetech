@@ -10,7 +10,7 @@ formulario.addEventListener("submit", function(event) {
 
     const telefone = "5567991653347";
 
-    const texto = `Gostaria de saber mais informações!!
+    const texto = `Gostaria de saber mais informações!!!
 
 Nome: ${nome}
 E-mail: ${email}
