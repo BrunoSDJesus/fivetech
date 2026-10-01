@@ -10,7 +10,7 @@ formulario.addEventListener("submit", function(event) {
 
     const telefone = "5567991653347";
 
-    const texto = `Olá, grandiosos fundadores da empresa FiveTech, tudo bem ? Gostaria de saber se poderiam me ensinar a sentar em um pinto gigantesco! obs: leu é gay.
+    const texto = `Gostaria de saber mais informações!!
 
 Nome: ${nome}
 E-mail: ${email}
